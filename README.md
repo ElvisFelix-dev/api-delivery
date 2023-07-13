@@ -10,9 +10,9 @@ Api para delivery, o cliente vai poder fazer seu registro na plataforma e fazer 
 
 - [Recursos](#recursos)
 - [Instalação](#instalação)
-- [Uso](#uso)
+- [Sobre](#uso)
 - [Contribuição](#contribuição)
-- [Licença](#licença)
+- [Contato](#contato)
 
 ## Recursos
 
@@ -43,3 +43,42 @@ OS X & Linux:
    ```sh
    npm run dev
    ```
+
+## Sobre
+
+<div align="center">
+  <img src="server.png" alt="server"><br />
+  <br />
+</div>
+
+<p>
+  Aplicação desenvolvida com Javascript, usando NodeJS
+</p>
+
+</br>
+<p>
+  Libs usadas no projeto
+</p>
+</br>
+<div align="center">
+  <img src="server.png" alt="server"><br />
+  <br />
+</div>
+
+
+
+## Contribuição
+
+1. Fork it (<https://github.com/ElvisFelix-dev/api-delivery/fork>)
+2. Create your feature branch (`git checkout -b feature/delivery`)
+3. Commit your changes (`git commit -am 'Add some delivery'`)
+4. Push to the branch (`git push origin feature/delivery`)
+5. Create a new Pull Request
+
+## Contato
+
+<p align="center"><a href="https://www.linkedin.com/in/elvis-felix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/elvis-felix" height="30" width="40" /></a></p>
+
+
+<p align="right">(<a href="#topo">Para o topo</a>)</p>
+
