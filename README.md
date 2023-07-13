@@ -61,7 +61,7 @@ OS X & Linux:
 </p>
 </br>
 <div align="center">
-  <img src="server.png" alt="server"><br />
+  <img src="libs.png" alt="libs"><br />
   <br />
 </div>
 
